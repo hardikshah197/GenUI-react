@@ -1,0 +1,21 @@
+.btn {
+    border: none;
+    outline: none;
+    background-color: #feb00c;
+    color: #fff;
+    font-family: inherit;
+    cursor: pointer;
+    transition: all .2s;
+    font-weight: 600;
+    border-radius: 2rem;
+    padding: 10px 20px;
+    font-size: 1rem;
+    
+}
+
+.large {
+    width: 50%;
+    padding: 20px 30px;
+    font-size: 1.2rem;
+    transform: translate(27rem, 9.5rem)
+}

@@ -1,0 +1,19 @@
+.inputSection {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: space-around;
+    background-color: #504ebc;
+    border-radius: 1rem;
+    padding: 2rem 0;
+}
+
+.inputSection--image {
+    width: 75%;
+    
+}
+
+.inputSection--img{
+    width: 100%;
+}
+
